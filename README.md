@@ -1,8 +1,5 @@
 # Описание проекта / Project Description
 
-## Краткое описание (Short Description)
-*Идеально подходит для поля "About" в GitHub репозитории.*
-
 ### RU
 Легковесный таймер выключения, перезагрузки и сна для Windows на Python и Flet.
 
